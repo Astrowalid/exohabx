@@ -1,0 +1,6 @@
+{
+  "name": "ExoHabX",
+  "description": "An interactive Three.js simulator showing the exoplanet habitability, mass, radius, temperature, star classification, and Earth Similarity Index (ESI) in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

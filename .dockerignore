@@ -1,0 +1,16 @@
+node_modules
+exoplanet-habitability-simulator/node_modules
+exoplanet-habitability-simulator/dist
+exoplanet.ipynb
+.git
+.gitignore
+.env
+Dockerfile
+.dockerignore
+README.md
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.vscode
+.idea
