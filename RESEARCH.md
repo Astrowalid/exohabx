@@ -1,7 +1,7 @@
 # 🔬 ExoHabX: AI-Driven Habitability Research
 ### **Predicting the Earth Similarity Index (ESI) with Sparse Observational Data**
 
-![Project Banner Placeholder](https://via.placeholder.com/1000x300.png?text=ExoHabX+Machine+Learning+Research+Pipeline)
+# <img src="exoplanet-habitability-simulator/public/exohabx-logo.png" height="60" alt="ExoHabX Logo">
 
 [![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?style=for-the-badge&logo=jupyter)](exoplanet.ipynb)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/walididbennacer/exohabx-habitable-exoplanets-dataset-nasa-hwc)
